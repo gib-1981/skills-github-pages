@@ -1,5 +1,5 @@
 ---
-title: "Shabba-TITLE"
+title: "Shabba-Ranks"
 date: 2025-08-29
 ---
 
